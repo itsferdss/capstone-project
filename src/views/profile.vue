@@ -153,7 +153,6 @@ body {
 }
 
 .sidenav {
-    background-color: #fff;
     color: #333;
     border-bottom-right-radius: 25px;
     height: 86%;
@@ -161,8 +160,9 @@ body {
     overflow-x: hidden;
     padding-top: 20px;
     position: absolute;
-    top: 70px;
+    top: 30px;
     width: 250px;
+    margin-left: 180px;
 }
 
 .profile {
