@@ -45,7 +45,7 @@ html, body {
     width: 100%;
     height: 100%;
     z-index: -1;
-    background-image: url("C:\Users\Ferdinand\Documents\codes\pediacareee\source\Background-pic.png");
+    background-image: url("C:\Users\Ferdinand\Documents\codes\PediaCare\capstone-project\source\Background-pic.png");
     background-size: cover;
     background-position: center;
     }

@@ -61,7 +61,7 @@ export default{
     bottom: 0;
     padding: 0.5em;
 
-    transition: 0.3 ease;
+    transition: all 0.3s ease;
     
     display: flex;
     flex-direction: column;
