@@ -24,9 +24,8 @@ export default{
         <SidebarLink class ="navNames" to="/home" icon="fas fa-home">Home</SidebarLink>
         <SidebarLink class ="navNames" to="/profile" icon="fa-solid fa-user">Profile</SidebarLink>
         <SidebarLink class ="navNames" to="/records" icon="fa-solid fa-notes-medical">Records</SidebarLink>
-        <SidebarLink class ="navNames" to="/vaccination" icon="fa-solid fa-syringe">Vaccination</SidebarLink>
+        <SidebarLink class ="navNames" to="/vaccination" icon="fa-solid fa-capsules">Medication</SidebarLink>
         <SidebarLink class ="navNames" to="/schedule" icon="fa-solid fa-calendar-days">Schedule</SidebarLink>
-        <SidebarLink class ="navNames" to="/prescription" icon="fa-solid fa-prescription">Prescription</SidebarLink>
         <SidebarLink class ="navNames" to="/specialCare" icon="fa-solid fa-hand-holding-medical">Special Care</SidebarLink>
 
         <span 

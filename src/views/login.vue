@@ -21,7 +21,6 @@
       </div>
       <button @click="login">Log in</button>
       <p>{{ errorMessage }}</p>
-      <p>Don't have an account? <router-link to="/register">Register</router-link></p>
     </div>
 
     <div class="trapezoid"></div>
