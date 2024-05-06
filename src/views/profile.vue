@@ -29,7 +29,7 @@ export default {
           <hr align="center">
         </div>
         <div class="url">
-          <a href="/resources/html/login.html">Logout</a>
+          <a href="/">Logout</a>
           <hr align="center">
         </div>
       </div>
